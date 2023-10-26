@@ -3,7 +3,7 @@
 ## Obecność na ostatnich zajęciach stacjonarnych: **OBOWIĄZKOWA**
 
 ## Piramida Sierpińskiego
-### 3.0-4.5
+### Start: 3.0
 
 - 3 poziomy
 - obraca się powoli
@@ -25,7 +25,6 @@
 ### +0.5
 
 - wokół piramidy porusza się sfera, który symuluje dzień/noc (?)
-
 
 ## Ocena 4.5+
 
